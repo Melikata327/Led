@@ -50,6 +50,7 @@ void loop() {
    Serial.print(result);    // چاپ کردن نتیجه محاسبات در خروجی
   }
 }
+```
 
 
 
