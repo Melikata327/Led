@@ -17,7 +17,7 @@ Serial.println ..
  با استفاده از  حلقه های switch case  
 کد مورد نظر را مینویسیم
 
-
+```cpp
 float num1;
 float num2;
 char operatoration;
